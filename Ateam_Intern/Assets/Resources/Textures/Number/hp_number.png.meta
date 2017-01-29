@@ -1,0 +1,653 @@
+fileFormatVersion: 2
+guid: 71970261c59fd4931a04039d740b7118
+timeCreated: 1474428384
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hp_number_0
+    21300002: hp_number_1
+    21300004: hp_number_2
+    21300006: hp_number_3
+    21300008: hp_number_4
+    21300010: hp_number_5
+    21300012: hp_number_6
+    21300014: hp_number_7
+    21300016: hp_number_8
+    21300018: hp_number_9
+    21300020: hp_number_10
+    21300022: hp_number_11
+    21300024: hp_number_12
+    21300026: hp_number_13
+    21300028: hp_number_14
+    21300030: hp_number_15
+    21300032: hp_number_16
+    21300034: hp_number_17
+    21300036: hp_number_18
+    21300038: hp_number_19
+    21300040: hp_number_20
+    21300042: hp_number_21
+    21300044: hp_number_22
+    21300046: hp_number_23
+    21300048: hp_number_24
+    21300050: hp_number_25
+    21300052: hp_number_26
+    21300054: hp_number_27
+    21300056: hp_number_28
+    21300058: hp_number_29
+    21300060: hp_number_30
+    21300062: hp_number_31
+    21300064: hp_number_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hp_number_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 28}
+        - {x: -23, y: -28}
+        - {x: 21, y: -28}
+        - {x: 23, y: -24}
+        - {x: 23, y: 28}
+    - name: hp_number_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 543
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hp_number_2
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 543
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 28}
+        - {x: -23, y: -23}
+        - {x: -19, y: -28}
+        - {x: 23, y: -28}
+        - {x: 23, y: 26}
+        - {x: 22, y: 28}
+    - name: hp_number_3
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 543
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28}
+        - {x: -21, y: 21}
+        - {x: -23, y: 7}
+        - {x: -23, y: -28}
+        - {x: 23, y: -28}
+        - {x: 23, y: 25}
+        - {x: 19, y: 28}
+    - name: hp_number_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 542
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 28.5}
+        - {x: -27, y: 8.5}
+        - {x: -27, y: -15.5}
+        - {x: -10, y: -28.5}
+        - {x: 25, y: -28.5}
+        - {x: 27, y: -23.5}
+        - {x: 27, y: 20.5}
+        - {x: 18, y: 28.5}
+    - name: hp_number_5
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 543
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 28}
+        - {x: -23, y: -28}
+        - {x: 23, y: -28}
+        - {x: 23, y: 28}
+    - name: hp_number_6
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 543
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28}
+        - {x: -23, y: 22}
+        - {x: -23, y: -21}
+        - {x: -20, y: -27}
+        - {x: -18, y: -28}
+        - {x: 21, y: -28}
+        - {x: 23, y: -27}
+        - {x: 23, y: 28}
+    - name: hp_number_7
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 543
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 28}
+        - {x: -23, y: -28}
+        - {x: 4, y: -28}
+        - {x: 23, y: 0}
+        - {x: 23, y: 23}
+        - {x: 21, y: 28}
+    - name: hp_number_8
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 543
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -23, y: 20}
+        - {x: -23, y: -28}
+        - {x: 23, y: -28}
+        - {x: 23, y: 28}
+    - name: hp_number_9
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 543
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 28}
+        - {x: -23, y: -28}
+        - {x: 23, y: -28}
+        - {x: 23, y: 28}
+    - name: hp_number_10
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 543
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 28}
+        - {x: -23.5, y: -16}
+        - {x: -23.5, y: -28}
+        - {x: -4.5, y: -28}
+        - {x: 23.5, y: 12}
+        - {x: 23.5, y: 28}
+    - name: hp_number_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 287
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 28}
+        - {x: -23, y: 27}
+        - {x: -23, y: -28}
+        - {x: 23, y: -28}
+        - {x: 23, y: 27}
+        - {x: 21, y: 28}
+    - name: hp_number_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 287
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hp_number_13
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 287
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 28}
+        - {x: -23, y: 25}
+        - {x: -23, y: -25}
+        - {x: -22, y: -28}
+        - {x: 23, y: -28}
+        - {x: 23, y: 26}
+        - {x: 22, y: 28}
+    - name: hp_number_14
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 287
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 28}
+        - {x: -23, y: 21}
+        - {x: -23, y: -28}
+        - {x: 19, y: -28}
+        - {x: 23, y: -22}
+        - {x: 23, y: 19}
+        - {x: 17, y: 28}
+    - name: hp_number_15
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 286
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 29}
+        - {x: -27, y: 8}
+        - {x: -27, y: -9}
+        - {x: -3, y: -29}
+        - {x: 20, y: -29}
+        - {x: 27, y: -13}
+        - {x: 27, y: 19}
+        - {x: 17, y: 29}
+    - name: hp_number_16
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 287
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 28}
+        - {x: -23, y: 25}
+        - {x: -23, y: -28}
+        - {x: 21, y: -28}
+        - {x: 23, y: -27}
+        - {x: 23, y: 28}
+    - name: hp_number_17
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 287
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 28}
+        - {x: -23, y: -26}
+        - {x: -20, y: -28}
+        - {x: 19, y: -28}
+        - {x: 23, y: -22}
+        - {x: 23, y: 11}
+        - {x: 19, y: 28}
+    - name: hp_number_18
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 287
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 28}
+        - {x: -23, y: 28}
+        - {x: -23, y: -19}
+        - {x: -22, y: -28}
+        - {x: 2, y: -28}
+        - {x: 20, y: -4}
+        - {x: 23, y: 7}
+        - {x: 23, y: 23}
+    - name: hp_number_19
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 287
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 28}
+        - {x: -23, y: 26}
+        - {x: -23, y: -28}
+        - {x: 23, y: -28}
+        - {x: 23, y: 21}
+        - {x: 17, y: 28}
+    - name: hp_number_20
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 287
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 28}
+        - {x: -23, y: -28}
+        - {x: 19, y: -28}
+        - {x: 23, y: -24}
+        - {x: 23, y: 28}
+    - name: hp_number_21
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 287
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 28}
+        - {x: -8.5, y: 7}
+        - {x: -23.5, y: -20}
+        - {x: -23.5, y: -28}
+        - {x: 5.5, y: -28}
+        - {x: 23.5, y: 17}
+        - {x: 23.5, y: 28}
+    - name: hp_number_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28}
+        - {x: -23, y: 22}
+        - {x: -23, y: -22}
+        - {x: -19, y: -28}
+        - {x: 20, y: -28}
+        - {x: 23, y: -25}
+        - {x: 23, y: 23}
+        - {x: 19, y: 28}
+    - name: hp_number_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hp_number_24
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 28}
+        - {x: -23, y: -28}
+        - {x: 23, y: -28}
+        - {x: 23, y: 27}
+        - {x: 20, y: 28}
+    - name: hp_number_25
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 28}
+        - {x: -18, y: 28}
+        - {x: -19, y: 27}
+        - {x: -22, y: 22}
+        - {x: -23, y: 15}
+        - {x: -23, y: -28}
+        - {x: 19, y: -28}
+        - {x: 22, y: -24}
+        - {x: 23, y: -22}
+        - {x: 23, y: 19}
+    - name: hp_number_26
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 0
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 29}
+        - {x: -14, y: 29}
+        - {x: -17, y: 28}
+        - {x: -27, y: 19}
+        - {x: -27, y: -12}
+        - {x: -12, y: -29}
+        - {x: 24, y: -29}
+        - {x: 27, y: -15}
+        - {x: 27, y: 17}
+        - {x: 22, y: 24}
+    - name: hp_number_27
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 28}
+        - {x: -23, y: 22}
+        - {x: -23, y: -19}
+        - {x: -20, y: -28}
+        - {x: 21, y: -28}
+        - {x: 23, y: -27}
+        - {x: 23, y: 28}
+    - name: hp_number_28
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 28}
+        - {x: -23, y: -28}
+        - {x: 23, y: -28}
+        - {x: 23, y: 28}
+    - name: hp_number_29
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 28}
+        - {x: -23, y: 12}
+        - {x: -21, y: 11}
+        - {x: -21, y: -28}
+        - {x: 3, y: -28}
+        - {x: 23, y: 5}
+        - {x: 23, y: 22}
+        - {x: 19, y: 28}
+    - name: hp_number_30
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -23, y: 20}
+        - {x: -23, y: -22}
+        - {x: -19, y: -28}
+        - {x: 20, y: -28}
+        - {x: 23, y: -23}
+        - {x: 23, y: 19}
+        - {x: 17, y: 28}
+    - name: hp_number_31
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 28}
+        - {x: -23, y: 26}
+        - {x: -23, y: -28}
+        - {x: 23, y: -28}
+        - {x: 23, y: 22}
+        - {x: 19, y: 28}
+    - name: hp_number_32
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 28}
+        - {x: -18.5, y: -1}
+        - {x: -23.5, y: -19}
+        - {x: -23.5, y: -28}
+        - {x: -5.5, y: -28}
+        - {x: -2.5, y: -26}
+        - {x: 23.5, y: 18}
+        - {x: 23.5, y: 28}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

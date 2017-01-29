@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 754362acef9ec914fbcd8542fd51e202
+timeCreated: 1474112041
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fever_effect_0
+    21300002: fever_effect_1
+    21300004: fever_effect_2
+    21300006: fever_effect_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 128
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fever_effect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: 90}
+        - {x: 77, y: 116}
+        - {x: 39, y: 129}
+        - {x: 26, y: 132}
+        - {x: -21, y: 132}
+        - {x: -37, y: 130}
+        - {x: -74, y: 114}
+        - {x: -109, y: 80}
+        - {x: -124, y: 43}
+        - {x: -125, y: 33}
+        - {x: -126, y: 19}
+        - {x: -126, y: -16}
+        - {x: -123, y: -33}
+        - {x: -112, y: -63}
+        - {x: -86, y: -95}
+        - {x: -49, y: -116}
+        - {x: -23, y: -122}
+        - {x: 21, y: -122}
+        - {x: 39, y: -120}
+        - {x: 71, y: -107}
+        - {x: 98, y: -84}
+        - {x: 102, y: 16}
+    - name: fever_effect_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110, y: 75}
+        - {x: 106, y: 83}
+        - {x: 87, y: 105}
+        - {x: 56, y: 124}
+        - {x: 31, y: 132}
+        - {x: -28, y: 132}
+        - {x: -74, y: 115}
+        - {x: -109, y: 80}
+        - {x: -124, y: 43}
+        - {x: -126, y: 39}
+        - {x: -126, y: -35}
+        - {x: -112, y: -63}
+        - {x: -87, y: -96}
+        - {x: -38, y: -122}
+        - {x: 28, y: -122}
+        - {x: 39, y: -121}
+        - {x: 75, y: -103}
+        - {x: 90, y: -93}
+        - {x: 110, y: -68}
+    - name: fever_effect_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: 8}
+        - {x: 108, y: 27}
+        - {x: 115, y: 56}
+        - {x: 115, y: 69}
+        - {x: 99, y: 97}
+        - {x: 57, y: 125}
+        - {x: 32, y: 132}
+        - {x: -28, y: 132}
+        - {x: -74, y: 115}
+        - {x: -109, y: 80}
+        - {x: -119, y: 55}
+        - {x: -119, y: -47}
+        - {x: -101, y: -78}
+        - {x: -85, y: -94}
+        - {x: -73, y: -104}
+        - {x: -37, y: -120}
+        - {x: -17, y: -122}
+        - {x: 25, y: -122}
+        - {x: 56, y: -114}
+        - {x: 77, y: -106}
+        - {x: 115, y: -66}
+    - name: fever_effect_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -33}
+        - {x: 128, y: 43}
+        - {x: 100, y: 97}
+        - {x: 57, y: 125}
+        - {x: 36, y: 132}
+        - {x: -40, y: 132}
+        - {x: -84, y: 110}
+        - {x: -116, y: 66}
+        - {x: -120, y: 46}
+        - {x: -120, y: -33}
+        - {x: -116, y: -51}
+        - {x: -107, y: -71}
+        - {x: -74, y: -105}
+        - {x: -37, y: -120}
+        - {x: -24, y: -122}
+        - {x: 28, y: -122}
+        - {x: 39, y: -121}
+        - {x: 75, y: -103}
+        - {x: 90, y: -93}
+        - {x: 119, y: -57}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

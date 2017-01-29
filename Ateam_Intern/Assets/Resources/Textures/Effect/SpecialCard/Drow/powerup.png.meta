@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: a626eeec2aea7a1418910e5d23603f07
+timeCreated: 1475120394
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: powerup_0
+    21300002: powerup_1
+    21300004: powerup_2
+    21300006: powerup_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: powerup_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2
+        width: 212
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5390625, y: 115.359375}
+        - {x: -9.4609375, y: 115.359375}
+        - {x: -14.4609375, y: 113.359375}
+        - {x: -98.46094, y: 18.359375}
+        - {x: -98.46094, y: -5.640625}
+        - {x: -90.46094, y: -14.640625}
+        - {x: -52.460938, y: -112.640625}
+        - {x: -49.460938, y: -113.640625}
+        - {x: 45.539062, y: -113.640625}
+        - {x: 99.53906, y: -26.640625}
+        - {x: 99.53906, y: 30.359375}
+        - {x: 96.53906, y: 40.359375}
+    - name: powerup_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 212
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.1875, y: 114}
+        - {x: -18.8125, y: 114}
+        - {x: -98.8125, y: 17}
+        - {x: -98.8125, y: -10}
+        - {x: -86.8125, y: -20}
+        - {x: -43.8125, y: -114}
+        - {x: 45.1875, y: -114}
+        - {x: 99.1875, y: -35}
+        - {x: 99.1875, y: 23}
+        - {x: 95.1875, y: 28}
+    - name: powerup_2
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1
+        width: 212
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.828125, y: 98.92969}
+        - {x: 16.828125, y: 115.92969}
+        - {x: -12.171875, y: 115.92969}
+        - {x: -98.171875, y: 28.929688}
+        - {x: -98.171875, y: -15.0703125}
+        - {x: -97.171875, y: -17.070312}
+        - {x: -51.171875, y: -110.07031}
+        - {x: -35.171875, y: -114.07031}
+        - {x: 46.828125, y: -114.07031}
+        - {x: 63.828125, y: -87.07031}
+        - {x: 99.828125, y: -47.070312}
+        - {x: 99.828125, y: 37.929688}
+    - name: powerup_3
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1
+        width: 211
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.1015625, y: 115.92969}
+        - {x: -98.10156, y: 23.929688}
+        - {x: -98.10156, y: -16.070312}
+        - {x: -58.101562, y: -88.07031}
+        - {x: -34.101562, y: -114.07031}
+        - {x: 45.898438, y: -114.07031}
+        - {x: 99.89844, y: -29.070312}
+        - {x: 99.89844, y: 31.929688}
+        - {x: 15.8984375, y: 115.92969}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

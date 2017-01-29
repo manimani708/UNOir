@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: dfc53455b861b854986bd4aa6fe546f2
+timeCreated: 1475197381
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CutIn_0
+    21300002: CutIn_1
+    21300004: CutIn_2
+    21300006: CutIn_3
+    21300008: CutIn_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CutIn_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 852
+        width: 622
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 279, y: -82}
+        - {x: 278, y: -81}
+        - {x: 278, y: -61}
+        - {x: 277, y: -53}
+        - {x: 276, y: -35}
+        - {x: 278, y: -32}
+        - {x: 279, y: -25}
+        - {x: 279, y: -20}
+        - {x: 278, y: -14}
+        - {x: 276, y: -6}
+        - {x: 274, y: -2}
+        - {x: 275, y: 11}
+        - {x: 277, y: 23}
+        - {x: 277, y: 30}
+        - {x: 276, y: 36}
+        - {x: 275, y: 47}
+        - {x: 275, y: 56}
+        - {x: 278, y: 70}
+        - {x: 279, y: 79}
+        - {x: 282, y: 89}
+        - {x: 311, y: 89}
+        - {x: 311, y: 97}
+        - {x: -311, y: 97}
+        - {x: -311, y: 89}
+        - {x: -287, y: 84}
+        - {x: -284, y: 76}
+        - {x: -283, y: 75}
+        - {x: -283, y: 7}
+        - {x: -284, y: -5}
+        - {x: -285, y: -9}
+        - {x: -286, y: -17}
+        - {x: -289, y: -23}
+        - {x: -290, y: -28}
+        - {x: -288, y: -40}
+        - {x: -287, y: -60}
+        - {x: -288, y: -61}
+        - {x: -292, y: -73}
+        - {x: -291, y: -90}
+        - {x: -311, y: -90}
+        - {x: -311, y: -97}
+        - {x: 311, y: -97}
+        - {x: 311, y: -90}
+        - {x: 280, y: -90}
+    - name: CutIn_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 640
+        width: 622
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 279, y: -82}
+        - {x: 278, y: -81}
+        - {x: 278, y: -61}
+        - {x: 277, y: -53}
+        - {x: 276, y: -35}
+        - {x: 278, y: -32}
+        - {x: 279, y: -25}
+        - {x: 279, y: -20}
+        - {x: 278, y: -14}
+        - {x: 276, y: -6}
+        - {x: 274, y: -2}
+        - {x: 275, y: 11}
+        - {x: 277, y: 23}
+        - {x: 277, y: 30}
+        - {x: 276, y: 36}
+        - {x: 275, y: 47}
+        - {x: 275, y: 56}
+        - {x: 278, y: 70}
+        - {x: 279, y: 79}
+        - {x: 282, y: 89}
+        - {x: 311, y: 89}
+        - {x: 311, y: 97}
+        - {x: -311, y: 97}
+        - {x: -311, y: 89}
+        - {x: -287, y: 84}
+        - {x: -284, y: 76}
+        - {x: -283, y: 75}
+        - {x: -283, y: 7}
+        - {x: -284, y: -5}
+        - {x: -285, y: -9}
+        - {x: -286, y: -17}
+        - {x: -289, y: -23}
+        - {x: -290, y: -28}
+        - {x: -288, y: -40}
+        - {x: -287, y: -60}
+        - {x: -288, y: -61}
+        - {x: -292, y: -73}
+        - {x: -291, y: -90}
+        - {x: -311, y: -90}
+        - {x: -311, y: -97}
+        - {x: 311, y: -97}
+        - {x: 311, y: -90}
+        - {x: 280, y: -90}
+    - name: CutIn_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 430
+        width: 622
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 279, y: -82}
+        - {x: 278, y: -81}
+        - {x: 278, y: -61}
+        - {x: 277, y: -53}
+        - {x: 276, y: -35}
+        - {x: 278, y: -32}
+        - {x: 279, y: -25}
+        - {x: 279, y: -20}
+        - {x: 278, y: -14}
+        - {x: 276, y: -6}
+        - {x: 274, y: -2}
+        - {x: 275, y: 11}
+        - {x: 277, y: 23}
+        - {x: 277, y: 30}
+        - {x: 276, y: 36}
+        - {x: 275, y: 47}
+        - {x: 275, y: 56}
+        - {x: 278, y: 70}
+        - {x: 279, y: 79}
+        - {x: 282, y: 89}
+        - {x: 311, y: 89}
+        - {x: 311, y: 97}
+        - {x: -311, y: 97}
+        - {x: -311, y: 89}
+        - {x: -287, y: 84}
+        - {x: -284, y: 76}
+        - {x: -283, y: 75}
+        - {x: -283, y: 7}
+        - {x: -284, y: -5}
+        - {x: -285, y: -9}
+        - {x: -286, y: -17}
+        - {x: -289, y: -23}
+        - {x: -290, y: -28}
+        - {x: -288, y: -40}
+        - {x: -287, y: -60}
+        - {x: -288, y: -61}
+        - {x: -292, y: -73}
+        - {x: -291, y: -90}
+        - {x: -311, y: -90}
+        - {x: -311, y: -97}
+        - {x: 311, y: -97}
+        - {x: 311, y: -90}
+        - {x: 280, y: -90}
+    - name: CutIn_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 214
+        width: 622
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 279, y: -82}
+        - {x: 278, y: -81}
+        - {x: 278, y: -61}
+        - {x: 277, y: -53}
+        - {x: 276, y: -35}
+        - {x: 278, y: -32}
+        - {x: 279, y: -25}
+        - {x: 279, y: -20}
+        - {x: 278, y: -14}
+        - {x: 276, y: -6}
+        - {x: 274, y: -2}
+        - {x: 275, y: 11}
+        - {x: 277, y: 23}
+        - {x: 277, y: 30}
+        - {x: 276, y: 36}
+        - {x: 275, y: 47}
+        - {x: 275, y: 56}
+        - {x: 278, y: 70}
+        - {x: 279, y: 79}
+        - {x: 282, y: 89}
+        - {x: 311, y: 89}
+        - {x: 311, y: 97}
+        - {x: -311, y: 97}
+        - {x: -311, y: 89}
+        - {x: -287, y: 84}
+        - {x: -284, y: 76}
+        - {x: -283, y: 75}
+        - {x: -283, y: 7}
+        - {x: -284, y: -5}
+        - {x: -285, y: -9}
+        - {x: -286, y: -17}
+        - {x: -289, y: -23}
+        - {x: -290, y: -28}
+        - {x: -288, y: -40}
+        - {x: -287, y: -60}
+        - {x: -288, y: -61}
+        - {x: -292, y: -73}
+        - {x: -291, y: -90}
+        - {x: -311, y: -90}
+        - {x: -311, y: -97}
+        - {x: 311, y: -97}
+        - {x: 311, y: -90}
+        - {x: 280, y: -90}
+    - name: CutIn_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 11
+        width: 600
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 269, y: -77.5}
+        - {x: 270, y: -72.5}
+        - {x: 270, y: -65.5}
+        - {x: 268, y: -55.5}
+        - {x: 266, y: -35.5}
+        - {x: 268, y: -31.5}
+        - {x: 269, y: -19.5}
+        - {x: 269, y: -15.5}
+        - {x: 266, y: -3.5}
+        - {x: 265, y: 8.5}
+        - {x: 267, y: 20.5}
+        - {x: 267, y: 31.5}
+        - {x: 266, y: 35.5}
+        - {x: 266, y: 55.5}
+        - {x: 268, y: 66.5}
+        - {x: 269, y: 73.5}
+        - {x: 272, y: 85.5}
+        - {x: 300, y: 85.5}
+        - {x: 300, y: 93.5}
+        - {x: -300, y: 93.5}
+        - {x: -300, y: 85.5}
+        - {x: -278, y: 85.5}
+        - {x: -277, y: 81.5}
+        - {x: -273, y: 72.5}
+        - {x: -273, y: 49.5}
+        - {x: -274, y: 43.5}
+        - {x: -273, y: 14.5}
+        - {x: -275, y: -4.5}
+        - {x: -276, y: -15.5}
+        - {x: -277, y: -19.5}
+        - {x: -278, y: -25.5}
+        - {x: -278, y: -40.5}
+        - {x: -277, y: -48.5}
+        - {x: -278, y: -64.5}
+        - {x: -282, y: -70.5}
+        - {x: -281, y: -85.5}
+        - {x: -300, y: -86.5}
+        - {x: -300, y: -93.5}
+        - {x: 300, y: -93.5}
+        - {x: 300, y: -86.5}
+        - {x: 270, y: -86.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

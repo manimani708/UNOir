@@ -1,0 +1,1129 @@
+fileFormatVersion: 2
+guid: f57c47e61c3a7724fa464e25a47fe55d
+timeCreated: 1473494534
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Card_b_0
+    21300002: Card_b_1
+    21300004: Card_b_2
+    21300006: Card_b_3
+    21300008: Card_b_4
+    21300010: Card_b_5
+    21300012: Card_b_6
+    21300014: Card_b_7
+    21300016: Card_b_8
+    21300018: Card_b_9
+    21300020: Card_b_10
+    21300022: Card_b_11
+    21300024: Card_b_12
+    21300026: Card_b_13
+    21300028: Card_b_14
+    21300030: Card_b_15
+    21300032: Card_b_16
+    21300034: Card_b_17
+    21300036: Card_b_18
+    21300038: Card_b_19
+    21300040: Card_b_20
+    21300042: Card_b_21
+    21300044: Card_b_22
+    21300046: Card_b_23
+    21300048: Card_b_24
+    21300050: Card_b_25
+    21300052: Card_b_26
+    21300054: Card_b_27
+    21300056: Card_b_28
+    21300058: Card_b_29
+    21300060: Card_b_30
+    21300062: Card_b_31
+    21300064: Card_b_32
+    21300066: Card_b_33
+    21300068: Card_b_34
+    21300070: Card_b_35
+    21300072: Card_b_36
+    21300074: Card_b_37
+    21300076: Card_b_38
+    21300078: Card_b_39
+    21300080: Card_b_40
+    21300082: Card_b_41
+    21300084: Card_b_42
+    21300086: Card_b_43
+    21300088: Card_b_44
+    21300090: Card_b_45
+    21300092: Card_b_46
+    21300094: Card_b_47
+    21300096: Card_b_48
+    21300098: Card_b_49
+    21300100: Card_b_50
+    21300102: Card_b_51
+    21300104: Card_b_52
+    21300106: Card_b_53
+    21300108: Card_b_54
+    21300110: Card_b_55
+    21300112: Card_b_56
+    21300114: Card_b_57
+    21300116: Card_b_58
+    21300118: Card_b_59
+    21300120: Card_b_60
+    21300122: Card_b_61
+    21300124: Card_b_62
+    21300126: Card_b_63
+    21300128: Card_b_64
+    21300130: Card_b_65
+    21300132: Card_b_66
+    21300134: Card_0
+    21300136: Card_1
+    21300138: Card_2
+    21300140: Card_3
+    21300142: Card_4
+    21300144: Card_5
+    21300146: Card_6
+    21300148: Card_7
+    21300150: Card_8
+    21300152: Card_9
+    21300154: Card_10
+    21300156: Card_11
+    21300158: Card_12
+    21300160: Card_17
+    21300162: Card_18
+    21300164: Card_19
+    21300166: Card_20
+    21300168: Card_21
+    21300170: Card_22
+    21300172: Card_23
+    21300174: Card_24
+    21300176: Card_25
+    21300178: Card_26
+    21300180: Card_31
+    21300182: Card_34
+    21300184: Card_35
+    21300186: Card_38
+    21300188: Card_39
+    21300190: Card_40
+    21300192: Card_41
+    21300194: Card_42
+    21300196: Card_45
+    21300198: Card_46
+    21300200: Card_47
+    21300202: Card_48
+    21300204: Card_57
+    21300206: Card_73
+    21300208: Card_300
+    21300210: Card_54
+    21300212: Card_57
+    21300214: Card_73
+    21300216: Card_74
+    21300218: Card_54
+    21300220: Card_55
+    21300222: Card_56
+    21300224: Card_57
+    21300226: Card_73
+    21300228: Card_74
+    21300230: Card_54
+    21300232: Card_55
+    21300234: Card_56
+    21300236: Card_57
+    21300238: Card_73
+    21300240: Card_74
+    21300242: Card_54
+    21300244: Card_55
+    21300246: Card_56
+    21300248: Card_57
+    21300250: Card_58
+    21300252: Card_59
+    21300254: Card_60
+    21300256: Card_61
+    21300258: Card_62
+    21300260: Card_63
+    21300262: Card_64
+    21300264: Card_65
+    21300266: Card_66
+    21300268: Card_67
+    21300270: Card_68
+    21300272: Card_69
+    21300274: Card_70
+    21300276: Card_71
+    21300278: Card_72
+    21300280: Card_73
+    21300282: Card_74
+    21300284: Card_74
+    21300286: Card_15
+    21300288: Card_16
+    21300290: Card_36
+    21300292: Card_37
+    21300294: Card_55
+    21300296: Card_56
+    21300298: Card_27
+    21300300: Card_30
+    21300302: Card_32
+    21300304: Card_33
+    21300306: Card_49
+    21300308: Card_50
+    21300310: Card_51
+    21300312: Card_52
+    21300314: Card_53
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Card_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 22.237183}
+        - {x: -22.5, y: 20.237183}
+        - {x: -22.5, y: -21.762817}
+        - {x: 20.5, y: -21.762817}
+        - {x: 22.5, y: -20.762817}
+        - {x: 22.5, y: 22.237183}
+    - name: Card_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 776
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.040474, y: 22.237183}
+        - {x: -22.040474, y: 20.237183}
+        - {x: -22.040474, y: -21.762817}
+        - {x: 19.959526, y: -21.762817}
+        - {x: 22.959526, y: -18.762817}
+        - {x: 22.959526, y: 22.237183}
+    - name: Card_2
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 776
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.14766, y: 22.237183}
+        - {x: -22.14766, y: 20.237183}
+        - {x: -22.14766, y: -21.762817}
+        - {x: 20.85234, y: -21.762817}
+        - {x: 22.85234, y: -18.762817}
+        - {x: 22.85234, y: 22.237183}
+    - name: Card_3
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 776
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.18814, y: 22.237183}
+        - {x: -22.18814, y: 19.237183}
+        - {x: -22.18814, y: -21.762817}
+        - {x: 20.81186, y: -21.762817}
+        - {x: 23.81186, y: -19.762817}
+        - {x: 23.81186, y: 22.237183}
+    - name: Card_4
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 776
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.795319, y: 22.237183}
+        - {x: -21.795319, y: 19.237183}
+        - {x: -21.795319, y: -21.762817}
+        - {x: 20.204681, y: -21.762817}
+        - {x: 23.204681, y: -18.762817}
+        - {x: 23.204681, y: 22.237183}
+    - name: Card_5
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 776
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.335785, y: 22.237183}
+        - {x: -22.335785, y: 20.237183}
+        - {x: -22.335785, y: -21.762817}
+        - {x: 20.664215, y: -21.762817}
+        - {x: 22.664215, y: -18.762817}
+        - {x: 22.664215, y: 22.237183}
+    - name: Card_6
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 776
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.442963, y: 22.237183}
+        - {x: -22.442963, y: 20.237183}
+        - {x: -22.442963, y: -21.762817}
+        - {x: 20.557037, y: -21.762817}
+        - {x: 22.557037, y: -18.762817}
+        - {x: 22.557037, y: 22.237183}
+    - name: Card_7
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 776
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.98346, y: 22.237183}
+        - {x: -21.98346, y: 19.237183}
+        - {x: -21.98346, y: -21.762817}
+        - {x: 20.01654, y: -21.762817}
+        - {x: 23.01654, y: -18.762817}
+        - {x: 23.01654, y: 22.237183}
+    - name: Card_8
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 776
+        width: 103
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.023926, y: 22.237183}
+        - {x: -22.023926, y: 19.237183}
+        - {x: -22.023926, y: -21.762817}
+        - {x: 20.976074, y: -21.762817}
+        - {x: 23.976074, y: -18.762817}
+        - {x: 23.976074, y: 22.237183}
+    - name: Card_9
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 776
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.131104, y: 22.237183}
+        - {x: -22.131104, y: 19.237183}
+        - {x: -22.131104, y: -21.762817}
+        - {x: 19.868896, y: -21.762817}
+        - {x: 23.868896, y: -17.762817}
+        - {x: 23.868896, y: 22.237183}
+    - name: Card_10
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 776
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.738281, y: 22.237183}
+        - {x: -21.738281, y: 21.237183}
+        - {x: -21.738281, y: -21.762817}
+        - {x: 20.261719, y: -21.762817}
+        - {x: 23.261719, y: -18.762817}
+        - {x: 23.261719, y: 22.237183}
+    - name: Card_11
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 776
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.278748, y: 22.237183}
+        - {x: -22.278748, y: 20.237183}
+        - {x: -22.278748, y: -21.762817}
+        - {x: 20.721252, y: -21.762817}
+        - {x: 22.721252, y: -18.762817}
+        - {x: 22.721252, y: 22.237183}
+    - name: Card_12
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 776
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.885925, y: 22.237183}
+        - {x: -21.885925, y: 20.237183}
+        - {x: -21.885925, y: -21.762817}
+        - {x: 20.114075, y: -21.762817}
+        - {x: 22.114075, y: -19.762817}
+        - {x: 22.114075, y: 22.237183}
+    - name: Card_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 591
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 22.577545}
+        - {x: -22.5, y: -22.422455}
+        - {x: 22.5, y: -22.422455}
+        - {x: 22.5, y: 22.577545}
+    - name: Card_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 591
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.040474, y: 22.577545}
+        - {x: -22.040474, y: 19.577545}
+        - {x: -22.040474, y: -22.422455}
+        - {x: 19.959526, y: -22.422455}
+        - {x: 22.959526, y: -19.422455}
+        - {x: 22.959526, y: 22.577545}
+    - name: Card_17
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 591
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.14766, y: 22.577545}
+        - {x: -22.14766, y: 19.577545}
+        - {x: -22.14766, y: -22.422455}
+        - {x: 20.85234, y: -22.422455}
+        - {x: 22.85234, y: -19.422455}
+        - {x: 22.85234, y: 22.577545}
+    - name: Card_18
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 591
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.18814, y: 22.577545}
+        - {x: -22.18814, y: 19.577545}
+        - {x: -22.18814, y: -22.422455}
+        - {x: 20.81186, y: -22.422455}
+        - {x: 23.81186, y: -20.422455}
+        - {x: 23.81186, y: 22.577545}
+    - name: Card_19
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 591
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.795319, y: 22.577545}
+        - {x: -21.795319, y: 18.577545}
+        - {x: -21.795319, y: -22.422455}
+        - {x: 21.204681, y: -22.422455}
+        - {x: 23.204681, y: -21.422455}
+        - {x: 23.204681, y: 22.577545}
+    - name: Card_20
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 591
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.335785, y: 22.577545}
+        - {x: -22.335785, y: 21.577545}
+        - {x: -22.335785, y: -22.422455}
+        - {x: 20.664215, y: -22.422455}
+        - {x: 22.664215, y: -19.422455}
+        - {x: 22.664215, y: 22.577545}
+    - name: Card_21
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 591
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.442963, y: 22.577545}
+        - {x: -22.442963, y: 21.577545}
+        - {x: -22.442963, y: -22.422455}
+        - {x: 20.557037, y: -22.422455}
+        - {x: 22.557037, y: -19.422455}
+        - {x: 22.557037, y: 22.577545}
+    - name: Card_22
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 591
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.98346, y: 22.577545}
+        - {x: -21.98346, y: 18.577545}
+        - {x: -21.98346, y: -22.422455}
+        - {x: 20.01654, y: -22.422455}
+        - {x: 23.01654, y: -19.422455}
+        - {x: 23.01654, y: 22.577545}
+    - name: Card_23
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 591
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.023926, y: 22.577545}
+        - {x: -22.023926, y: 17.577545}
+        - {x: -22.023926, y: -22.422455}
+        - {x: 20.976074, y: -22.422455}
+        - {x: 23.976074, y: -19.422455}
+        - {x: 23.976074, y: 22.577545}
+    - name: Card_24
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 591
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.131104, y: 22.577545}
+        - {x: -22.131104, y: 18.577545}
+        - {x: -22.131104, y: -22.422455}
+        - {x: 21.868896, y: -22.422455}
+        - {x: 23.868896, y: -21.422455}
+        - {x: 23.868896, y: 22.577545}
+    - name: Card_25
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 593
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.104858, y: 19.944122}
+        - {x: -22.104858, y: 16.944122}
+        - {x: -22.104858, y: -22.055878}
+        - {x: 21.895142, y: -22.055878}
+        - {x: 23.895142, y: -20.055878}
+        - {x: 23.895142, y: 23.944122}
+        - {x: -16.104858, y: 23.944122}
+    - name: Card_26
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 591
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.278748, y: 22.577545}
+        - {x: -22.278748, y: 19.577545}
+        - {x: -22.278748, y: -22.422455}
+        - {x: 20.721252, y: -22.422455}
+        - {x: 22.721252, y: -19.422455}
+        - {x: 22.721252, y: 22.577545}
+    - name: Card_27
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 591
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.885925, y: 22.577545}
+        - {x: -21.885925, y: 19.577545}
+        - {x: -21.885925, y: -22.422455}
+        - {x: 20.114075, y: -22.422455}
+        - {x: 22.114075, y: -20.422455}
+        - {x: 22.114075, y: 22.577545}
+    - name: Card_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23.08496}
+        - {x: -22.5, y: 21.08496}
+        - {x: -22.5, y: -21.91504}
+        - {x: 18.5, y: -21.91504}
+        - {x: 22.5, y: -17.91504}
+        - {x: 22.5, y: 23.08496}
+    - name: Card_31
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 396
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.040474, y: 23.08496}
+        - {x: -22.040474, y: 21.08496}
+        - {x: -22.040474, y: -21.91504}
+        - {x: 18.959526, y: -21.91504}
+        - {x: 22.959526, y: -18.91504}
+        - {x: 22.959526, y: 23.08496}
+    - name: Card_32
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 396
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.14766, y: 23.08496}
+        - {x: -22.14766, y: 22.08496}
+        - {x: -22.14766, y: -21.91504}
+        - {x: 18.85234, y: -21.91504}
+        - {x: 22.85234, y: -18.91504}
+        - {x: 22.85234, y: 23.08496}
+    - name: Card_33
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 396
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.18814, y: 23.08496}
+        - {x: -22.18814, y: 21.08496}
+        - {x: -22.18814, y: -21.91504}
+        - {x: 19.81186, y: -21.91504}
+        - {x: 22.81186, y: -19.91504}
+        - {x: 23.81186, y: -16.91504}
+        - {x: 23.81186, y: 23.08496}
+    - name: Card_34
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 396
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.795319, y: 23.08496}
+        - {x: -21.795319, y: 21.08496}
+        - {x: -21.795319, y: -21.91504}
+        - {x: 21.204681, y: -21.91504}
+        - {x: 23.204681, y: -20.91504}
+        - {x: 23.204681, y: 23.08496}
+    - name: Card_35
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 396
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.335785, y: 23.08496}
+        - {x: -22.335785, y: 19.08496}
+        - {x: -22.335785, y: -21.91504}
+        - {x: 19.664215, y: -21.91504}
+        - {x: 22.664215, y: -20.91504}
+        - {x: 22.664215, y: 23.08496}
+    - name: Card_36
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 396
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.442963, y: 23.08496}
+        - {x: -22.442963, y: 21.08496}
+        - {x: -22.442963, y: -21.91504}
+        - {x: 18.557037, y: -21.91504}
+        - {x: 22.557037, y: -17.91504}
+        - {x: 22.557037, y: 23.08496}
+    - name: Card_37
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 396
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.98346, y: 23.08496}
+        - {x: -21.98346, y: 21.08496}
+        - {x: -21.98346, y: -21.91504}
+        - {x: 19.01654, y: -21.91504}
+        - {x: 23.01654, y: -18.91504}
+        - {x: 23.01654, y: 23.08496}
+    - name: Card_38
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 396
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.023926, y: 23.08496}
+        - {x: -22.023926, y: 20.08496}
+        - {x: -22.023926, y: -21.91504}
+        - {x: 19.976074, y: -21.91504}
+        - {x: 23.976074, y: -18.91504}
+        - {x: 23.976074, y: 23.08496}
+    - name: Card_39
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 396
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.131104, y: 23.08496}
+        - {x: -22.131104, y: -21.91504}
+        - {x: 19.868896, y: -21.91504}
+        - {x: 22.868896, y: -19.91504}
+        - {x: 23.868896, y: -16.91504}
+        - {x: 23.868896, y: 23.08496}
+    - name: Card_40
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 396
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.738281, y: 23.08496}
+        - {x: -21.738281, y: 19.08496}
+        - {x: -21.738281, y: -21.91504}
+        - {x: 23.261719, y: -21.91504}
+        - {x: 23.261719, y: 23.08496}
+    - name: Card_41
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 396
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.278748, y: 23.08496}
+        - {x: -22.278748, y: 22.08496}
+        - {x: -22.278748, y: -21.91504}
+        - {x: 18.721252, y: -21.91504}
+        - {x: 22.721252, y: -18.91504}
+        - {x: 22.721252, y: 23.08496}
+    - name: Card_42
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 396
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.885925, y: 23.08496}
+        - {x: -21.885925, y: 19.08496}
+        - {x: -21.885925, y: -21.91504}
+        - {x: 19.114075, y: -21.91504}
+        - {x: 22.114075, y: -18.91504}
+        - {x: 22.114075, y: 23.08496}
+    - name: Card_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 22.82611}
+        - {x: -22.5, y: 19.82611}
+        - {x: -22.5, y: -22.17389}
+        - {x: 19.5, y: -22.17389}
+        - {x: 22.5, y: -21.17389}
+        - {x: 22.5, y: 22.82611}
+    - name: Card_46
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 190
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.040474, y: 22.82611}
+        - {x: -22.040474, y: 18.82611}
+        - {x: -22.040474, y: -22.17389}
+        - {x: 19.959526, y: -22.17389}
+        - {x: 22.959526, y: -21.17389}
+        - {x: 22.959526, y: 22.82611}
+    - name: Card_47
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 190
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.14766, y: 22.82611}
+        - {x: -22.14766, y: 18.82611}
+        - {x: -22.14766, y: -22.17389}
+        - {x: 19.85234, y: -22.17389}
+        - {x: 22.85234, y: -21.17389}
+        - {x: 22.85234, y: 22.82611}
+    - name: Card_48
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 190
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.18814, y: 22.82611}
+        - {x: -22.18814, y: -22.17389}
+        - {x: 23.81186, y: -22.17389}
+        - {x: 23.81186, y: 22.82611}
+    - name: Card_49
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 190
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.795319, y: 22.82611}
+        - {x: -21.795319, y: 20.82611}
+        - {x: -21.795319, y: -22.17389}
+        - {x: 22.204681, y: -22.17389}
+        - {x: 23.204681, y: -20.17389}
+        - {x: 23.204681, y: 22.82611}
+    - name: Card_50
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 190
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.335785, y: 22.82611}
+        - {x: -22.335785, y: 19.82611}
+        - {x: -22.335785, y: -22.17389}
+        - {x: 18.664215, y: -22.17389}
+        - {x: 22.664215, y: -18.17389}
+        - {x: 22.664215, y: 22.82611}
+    - name: Card_51
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 190
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.442963, y: 22.82611}
+        - {x: -22.442963, y: 19.82611}
+        - {x: -22.442963, y: -22.17389}
+        - {x: 18.557037, y: -22.17389}
+        - {x: 22.557037, y: -18.17389}
+        - {x: 22.557037, y: 22.82611}
+    - name: Card_52
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 190
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.98346, y: 22.82611}
+        - {x: -21.98346, y: 18.82611}
+        - {x: -21.98346, y: -22.17389}
+        - {x: 20.01654, y: -22.17389}
+        - {x: 23.01654, y: -19.17389}
+        - {x: 23.01654, y: 22.82611}
+    - name: Card_53
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 190
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.023926, y: 22.82611}
+        - {x: -22.023926, y: 17.82611}
+        - {x: -22.023926, y: -21.17389}
+        - {x: -21.023926, y: -22.17389}
+        - {x: 20.976074, y: -22.17389}
+        - {x: 23.976074, y: -21.17389}
+        - {x: 23.976074, y: 22.82611}
+    - name: Card_54
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 190
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.131104, y: 22.82611}
+        - {x: -22.131104, y: -22.17389}
+        - {x: 23.868896, y: -22.17389}
+        - {x: 23.868896, y: 22.82611}
+    - name: Card_55
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 190
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.738281, y: 22.82611}
+        - {x: -21.738281, y: 20.82611}
+        - {x: -21.738281, y: -22.17389}
+        - {x: 22.261719, y: -22.17389}
+        - {x: 23.261719, y: -20.17389}
+        - {x: 23.261719, y: 22.82611}
+    - name: Card_56
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 190
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.278748, y: 22.82611}
+        - {x: -22.278748, y: 18.82611}
+        - {x: -22.278748, y: -22.17389}
+        - {x: 19.721252, y: -22.17389}
+        - {x: 22.721252, y: -21.17389}
+        - {x: 22.721252, y: 22.82611}
+    - name: Card_57
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 190
+        width: 101
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.885925, y: 22.82611}
+        - {x: -21.885925, y: 18.82611}
+        - {x: -21.885925, y: -22.17389}
+        - {x: 19.114075, y: -22.17389}
+        - {x: 22.114075, y: -19.17389}
+        - {x: 22.114075, y: 22.82611}
+    - name: Card_73
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.173279, y: 22.933296}
+        - {x: -22.173279, y: 21.933296}
+        - {x: -22.173279, y: -22.066704}
+        - {x: 21.826721, y: -22.066704}
+        - {x: 23.826721, y: -21.066704}
+        - {x: 23.826721, y: 22.933296}
+    - name: Card_74
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 0
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.41217, y: 22}
+        - {x: -22.41217, y: 19}
+        - {x: -22.41217, y: -22}
+        - {x: 21.58783, y: -22}
+        - {x: 22.58783, y: -20}
+        - {x: 22.58783, y: 22}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
